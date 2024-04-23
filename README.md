@@ -9,7 +9,7 @@
 ```javascript
 const angelica = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, PostgreSQL],
   tools: [React, Express, Node, Styled-Components, Tailwind]
 ```
 <br>I'm a passionate fullstack developer always looking for challenges and growth opportunities. With experience in both frontend and backend, I love building innovative web applications and creative solutions. I'm always learning and exploring new technologies.<br><br><br>🔭 I’m currently working on building programming projects and learning new skills.<br>👯 I’m looking to collaborate on team projects where I can learn and contribute.<br>🌱 I’m currently learning more languages and frameworks like Nest.js.<br>💬 Ask me about anything related to programming or software development.<br>⚡ Fun fact: I love discovering interesting facts about technology and science.
