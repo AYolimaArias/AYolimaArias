@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full stack developer at <a href="https://www.codeable.la/">Codeable</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelica.arias33?igsh=MXF4Z3BrdHVveXZ3aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ang%C3%A9licaarias/) [![Gmail](https://img.shields.io/badge/Gmail-%23646CFF.svg?logo=gmail&logoColor=white)](angelica.arias33@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelica.arias33?igsh=MXF4Z3BrdHVveXZ3aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ang%C3%A9licaarias/) [![Gmail](https://img.shields.io/badge/Gmail-%23646CFF.svg?logo=gmail&logoColor=white)](angelica.arias33@gmail.com)[![](https://visitcount.itsvg.in/api?id=AYolimaArias&icon=7&color=10)](https://visitcount.itsvg.in)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -34,6 +34,6 @@ const angelica = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AYolimaArias&icon=7&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
