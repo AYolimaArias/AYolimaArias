@@ -2,8 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full stack developer at <a href="https://www.codeable.la/">Codeable</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-[![](https://visitcount.itsvg.in/api?id=AYolimaArias&icon=7&color=10)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelica.arias33?igsh=MXF4Z3BrdHVveXZ3aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ang%C3%A9licaarias/) [![Gmail](https://img.shields.io/badge/Gmail-%23646CFF.svg?logo=gmail&logoColor=white)](angelica.arias33@gmail.com) ![Codewars](https://img.shields.io/badge/Codewars-%23E34F26.svg?logo=Codewars&logoColor=white
-)
+[![](https://visitcount.itsvg.in/api?id=AYolimaArias&icon=7&color=10)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelica.arias33?igsh=MXF4Z3BrdHVveXZ3aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ang%C3%A9licaarias/) [![Gmail](https://img.shields.io/badge/Gmail-%23646CFF.svg?logo=gmail&logoColor=white)](angelica.arias33@gmail.com) [![Codewars](https://img.shields.io/badge/Codewars-%23E34F26.svg?logo=Codewars&logoColor=white)](https://www.codewars.com/users/Angelica%20Arias)
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
