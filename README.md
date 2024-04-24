@@ -10,6 +10,7 @@ const angelica = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, PostgreSQL],
   tools: [React, Express, Node, Styled-Components, Tailwind]
+}
 ```
 
 <br>I'm a passionate fullstack developer always looking for challenges and growth opportunities. With experience in both frontend and backend, I love building innovative web applications and creative solutions. I'm always learning and exploring new technologies.
